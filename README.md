@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourabh-agarwal-136b391b1/)](https://www.linkedin.com/in/sourabh-agarwal-136b391b1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sourabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourabh-agarwal-136b391b1/)](https://www.linkedin.com/in/sourabh-agarwal-136b391b1/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
